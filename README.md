@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=600&lines=Muhammad+Ibtisam;AI%2FML+Engineer;Full-Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
-</div>
+<h1 align="center">Muhammad Ibtisam</h1>
+<h3 align="center">AI/ML Engineer & Full-Stack Developer</h3>
 
 ---
 
@@ -26,10 +25,10 @@ Django REST API powering GymFuel — JWT auth, LangChain RAG pipeline, Celery + 
 ### [jewelry-recommendation-ai](https://github.com/ibtisam-12/jewelry-recommendation-ai)
 ML-powered jewelry recommendation system using palm orientation and skin tone analysis.
 
-### [inboxia](https://github.com/ibtisam-12/inboxia)
+### [inboxia-email](https://github.com/ibtisam-12/inboxia-email)
 Intelligent email management platform with ML-based classification and prioritization.
 
-### [decentralized-gym-marketplace](https://github.com/ibtisam-12/gym-marketplace)
+### [decentralized-gym-marketplace](https://github.com/ibtisam-12/decentralized-gym-marketplace)
 Django e-commerce with blockchain ledger for tamper-proof order auditing.
 
 ### [malware-detection-tool](https://github.com/ibtisam-12/malware-detection-tool)
@@ -56,10 +55,9 @@ Cybersecurity tool applying Automata Theory (Regex, NFA, DFA) to malware detecti
 
 ## GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibtisam-12&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibtisam-12&theme=tokyonight&hide_border=true" width="48%" />
-</div>
+- **12+ public repositories** across Python, TypeScript, and JavaScript
+- **Key domains**: AI/ML, Full-Stack Web, Mobile (React Native), Cybersecurity
+- **Core stack**: Django, LangChain, React Native, PostgreSQL, Redis, Firebase
 
 ---
 
