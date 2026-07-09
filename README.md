@@ -11,7 +11,7 @@ AI/ML Engineer and Full-Stack Developer passionate about building intelligent sy
 - **Machine Learning & AI**: LangChain, Llama 3, TensorFlow, Federated Learning
 - **Backend**: Django, Django REST Framework, PostgreSQL, Redis
 - **Frontend & Mobile**: React Native, TypeScript, JavaScript
-- **DevOps & Cloud**: Docker, GitHub Actions, Firebase
+- **DevOps & Cloud**: GitHub Actions, Firebase
 
 ---
 
@@ -48,7 +48,6 @@ Cybersecurity tool applying Automata Theory (Regex, NFA, DFA) to malware detecti
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </div>
 
