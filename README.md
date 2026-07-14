@@ -1,12 +1,7 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=600&lines=Muhammad+Ibtisam;AI%2FML+Engineer;Full-Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
-</div>
-
----
 
 ## About Me
 
-AI/ML Engineer and Full-Stack Developer passionate about building intelligent systems that solve real-world problems. I specialize in:
+AI/ML Engineer and Full-Stack Developer I specialize in:
 
 - **Machine Learning & AI**: LangChain, Llama 3, TensorFlow, Federated Learning
 - **Backend**: Django, Django REST Framework, PostgreSQL, Redis
